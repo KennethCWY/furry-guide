@@ -1,7 +1,5 @@
-import React from 'react';
-import Albums from './components/Albums';
-import Members from './components/Members';
-import LikeButton from './components/LikeButton';
+import React from "react";
+import { Albums, Members, LikeButton } from "./components";
 
 function App() {
   return (
